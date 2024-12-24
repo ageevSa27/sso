@@ -1,4 +1,4 @@
-module github.com/saAgeev27/sso
+module sso
 
 go 1.23.4
 
